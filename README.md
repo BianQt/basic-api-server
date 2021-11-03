@@ -1,4 +1,4 @@
-# LAB02 - Express REST API
+# LAB03 - Express REST API
 Bayan Qutshan
 
 * [Github actions](https://github.com/BianQt/basic-api-server/actions)
